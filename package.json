@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@types/k6": "^0.51.0"
+  }, "scripts": {
+    "test": "sh run.sh"
+  }
+}
